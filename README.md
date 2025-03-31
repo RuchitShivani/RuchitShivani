@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ruchit Shivani</h1>
-<h3 align="center">I'm a 3rd year Computer Science and Engineering student at SRM KTR, specializing in Information Technology. My interests include blockchain, machine learning particularly training ML models.</h3>
+<h3 align="center">I'm a 3rd year Computer Science and Engineering student at SRM KTR, specializing in Information Technology. My interests include blockchain, machine learning particularly training ML models particularly classification and regression.</h3>
 
 <p align="center">
   <img alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpyZGNwY2VkanpwbGdlemU0ODNnb3BheWg4ZmhkdGtjdW82OXlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
